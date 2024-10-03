@@ -38,5 +38,11 @@
  <img width="1000" src="GitHub-snake.svg" alt="snake"/>
 </p>
 
+
+### Hacktoberfest Achievements 🎉
+[![Holopin Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)](https://holopin.io/@omsherikar)
+
+
+
  
 </div>
