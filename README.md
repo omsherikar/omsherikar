@@ -16,7 +16,7 @@
 
 
 - 📄 Know about my education - **B.Tech in Information Technology**
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **omsherikar0229@gmail.com**
 
 
