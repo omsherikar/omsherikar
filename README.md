@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Maharashtra...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 
 
 - 📄 Know about my education - **B.Tech in Information Technology**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & Machine Learning**
 - 📫 How to reach me **omsherikar0229@gmail.com**
 
 
@@ -39,8 +39,6 @@
 </p>
 
 
-### Hacktoberfest Achievements 🎉
-[![Holopin Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)](https://holopin.io/@omsherikar)
 
 
 
