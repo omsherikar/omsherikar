@@ -1,46 +1,110 @@
-<h1 align="center">Hi 👋, I'm Om</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sherikar+Om+Revanappa!;AI+%7C+Quantum+ML+%7C+Computer+Vision+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
-<br>
 <p align="center">
-  <img alt="Coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
-</p>
-<br>
-
-
-
-
-
-
-- 📄 Know about my education - **B.Tech in Information Technology**
-- 🌱 I’m currently learning **Python & Machine Learning**
-- 📫 How to reach me **omsherikar0229@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/OSherikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OSherikar" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/omsherikar0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omsherikar0229" height="30" width="40" /></a>
-  <a href="https://instagram.com/irreplaceable_om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irreplaceable_om" height="30" width="40" /></a>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
-
-<div align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-     
-
-<p align="center">
- <img width="1000" src="GitHub-snake.svg" alt="snake"/>
+  <a href="mailto:omsherikar0229@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/omsherikar0229" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/omsherikar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
+<a href="https://u8views.com/github/omsherikar"><img src="https://u8views.com/api/v1/github/profiles/180152315/views/day-week-month-total-count.svg"></a>
+---
 
+##  About Me
 
+I'm a first-year Information Technology student at **RGIPT** with a passion for building intelligent, scalable, and impactful AI solutions. My interests span **Quantum Machine Learning**, **Advanced Computer Vision**, and **AI Engineering**.  
+I thrive on solving real-world problems, leading teams, and driving innovation in technology and entrepreneurship.
 
+---
 
- 
-</div>
+##  Education
+
+**Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**  
+_Bachelor of Technology in Information Technology_  
+2024 – Present &nbsp; | &nbsp; **SGPA:** 8.08/10.0
+
+---
+
+##  Skills & Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/4B8BBE/ffffff" alt="Python" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/c/00599C/ffffff" alt="C" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243/ffffff" alt="NumPy" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8/ffffff" alt="OpenCV" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/git/F05032/ffffff" alt="Git" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57/ffffff" alt="SQLite" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/linux/000000/ffffff" alt="Linux" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub" width="32" height="32"/>
+</p>
+
+---
+
+##  Projects
+
+### - Intelligent Beam Analyzer | _Python, Machine Learning_
+- Achieved **95%+ accuracy** in structural integrity predictions
+- Reduced material costs by **30%**
+- Enhanced workflow efficiency by **40%**
+- _Technologies:_ Python, NumPy, Machine Learning, Engineering Mechanics  
+- [GitHub Repo](https://github.com/omsherikar/beam_analyzer_project)
+
+### - Smart Attendance System | _Python, Database Management_
+- Managed **1000+** student records with **99.9% uptime**
+- Achieved **100%** data loss prevention with offline sync
+- Improved response time by **60%**
+- _Technologies:_ Python, SQLite, GUI Framework, Data Synchronization  
+- [GitHub Repo](https://github.com/omsherikar/Attendance)
+
+### - Advanced Face Recognition System | _Computer Vision_
+- **95% accuracy** in real-time face recognition
+- **40%** faster processing with optimized algorithms
+- **25%** improvement in recognition accuracy
+- _Technologies:_ Python, OpenCV, Deep Learning, Image Processing  
+- [GitHub Repo](https://github.com/omsherikar/face_recognition)
+
+---
+
+##  Research & Interests
+
+- **Quantum Machine Learning:** Quantum neural networks, optimization algorithms
+- **Advanced Computer Vision:** Real-time object detection, recognition systems
+- **AI Engineering:** Model optimization, scalable AI deployment
+
+---
+
+##  Leadership & Activities
+
+**E-Cell, RGIPT** — _Sponsorship Executive_  
+- Secured **₹50,000+** in sponsorships for entrepreneurship events
+- Increased partner engagement by **40%**
+- Organized **3+ major events** with **500+ participants**
+
+---
+
+## GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omsherikar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsherikar&theme=tokyonight" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <b>"Innovating today for a smarter tomorrow."</b> 🚀
+</p> 
