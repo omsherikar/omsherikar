@@ -21,7 +21,7 @@
 
 ##  About Me
 
-I'm a first-year Information Technology student at **RGIPT** with a passion for building intelligent, scalable, and impactful AI solutions. My interests span **Quantum Machine Learning**, **Advanced Computer Vision**, and **AI Engineering**.  
+I'm a Second-year Information Technology student at **RGIPT** with a passion for building intelligent, scalable, and impactful AI solutions. My interests span **Quantum Machine Learning**, **Advanced Computer Vision**, and **AI Engineering**.  
 I thrive on solving real-world problems, leading teams, and driving innovation in technology and entrepreneurship.
 
 ---
@@ -30,7 +30,7 @@ I thrive on solving real-world problems, leading teams, and driving innovation i
 
 **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**  
 _Bachelor of Technology in Information Technology_  
-2024 – Present &nbsp; | &nbsp; **SGPA:** 8.08/10.0
+2024 – Present &nbsp; | &nbsp; **SGPA:** 8.22/10.0
 
 ---
 
