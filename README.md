@@ -96,6 +96,10 @@ _Bachelor of Technology in Information Technology_
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omsherikar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=compact&theme=tokyonight)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=tokyonight" alt="GitHub Streak" />
 </p>
