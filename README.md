@@ -98,8 +98,8 @@ _Bachelor of Technology in Information Technology_
 </p>
 
 ## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=donut&theme=tokyonight&hide=html,css)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=compact&theme=tokyonight)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=tokyonight" alt="GitHub Streak" />
 </p>
