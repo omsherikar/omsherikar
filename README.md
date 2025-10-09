@@ -30,7 +30,7 @@ I thrive on solving real-world problems, leading teams, and driving innovation i
 
 **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**  
 _Bachelor of Technology in Information Technology_  
-2024 – Present &nbsp; | &nbsp; **SGPA:** 8.22/10.0
+2024 – Present &nbsp; | &nbsp; **CGPA:** 8.21/10.0
 
 ---
 
