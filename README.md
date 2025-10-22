@@ -94,20 +94,21 @@ _Bachelor of Technology in Information Technology_
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsherikar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omsherikar&show_icons=true&theme=radical"/>
+ 
 </p>
 
 ##  Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=donut&theme=tokyonight&hide=html,css" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=donut&theme=radical&hide=html,css" alt="GitHub Streak" />
 </p>
 ##  Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsherikar&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsherikar&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
