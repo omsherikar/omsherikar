@@ -103,10 +103,15 @@ _Bachelor of Technology in Information Technology_
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsherikar&layout=donut&theme=radical&hide=html,css" alt="GitHub Streak" />
 </p>
+
 ##  Streaks
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsherikar&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=omsherikar&theme=radical" alt="GitHub Streak" />
 </p>
+
+## Contribution Graph
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsherikar&theme=radical" alt="Contribution Graph" />
 </p>
@@ -114,5 +119,5 @@ _Bachelor of Technology in Information Technology_
 ---
 
 <p align="center">
-  <b>"Innovating today for a smarter tomorrow."</b> 🚀
+  <b>"Innovating today for a smarter tomorrow."</b> 
 </p> 
