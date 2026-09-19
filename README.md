@@ -5,3 +5,63 @@
 </p>
 
 
+<div align="center">
+
+**Supported by some of the most respected developer programs in open source.**
+
+<table align="center" width="80%" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" width="33.3%" valign="top">
+
+<table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.mintlify.com/oss-program">
+<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="22" alt="Mintlify">
+</a>
+</td>
+</tr>
+</table>
+
+<b>Mintlify OSS</b><br> <sub> <a href="https://www.mintlify.com/oss-program">Website</a> </sub>
+
+</td>
+
+<td align="center" width="33.3%" valign="top">
+
+<table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.browserstack.com/open-source">
+<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="90" height="22" alt="BrowserStack">
+</a>
+</td>
+</tr>
+</table>
+
+<b>BrowserStack OSS</b><br> <sub> <a href="https://www.browserstack.com/open-source">Website</a> </sub>
+
+</td>
+
+<td align="center" width="33.3%" valign="top">
+
+<table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.sarvam.ai/startup-program">
+<img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Sarvam AI">
+</a>
+</td>
+</tr>
+</table>
+
+<b>Sarvam AI</b><br> <sub>Startup Program</sub><br> <sub> <a href="https://www.sarvam.ai/startup-program">Website</a> </sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
