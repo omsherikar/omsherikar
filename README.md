@@ -7,12 +7,14 @@
 
 <div align="center">
 
+<div align="center">
+
 **Supported by some of the most respected developer programs in open source.**
 
-<table align="center" width="80%" cellpadding="0" cellspacing="0">
+<table align="center" width="90%" cellpadding="0" cellspacing="0">
 <tr>
 
-<td align="center" width="33.3%" valign="top">
+<td align="center" width="25%" valign="top">
 
 <table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
@@ -28,7 +30,7 @@
 
 </td>
 
-<td align="center" width="33.3%" valign="top">
+<td align="center" width="25%" valign="top">
 
 <table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
@@ -44,7 +46,7 @@
 
 </td>
 
-<td align="center" width="33.3%" valign="top">
+<td align="center" width="25%" valign="top">
 
 <table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
@@ -60,8 +62,25 @@
 
 </td>
 
+<td align="center" width="25%" valign="top">
+
+<table align="center" width="100" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://supermemory.ai/">
+<img src="https://img.shields.io/badge/SUPERMEMORY-111827?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Supermemory">
+</a>
+</td>
+</tr>
+</table>
+
+<b>Supermemory</b><br> <sub> <a href="https://supermemory.ai/">Website</a> </sub>
+
+</td>
+
 </tr>
 </table>
 
 </div>
+
 
